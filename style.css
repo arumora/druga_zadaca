@@ -1,0 +1,23 @@
+.red {
+    color:red;
+    font-family:monospace;
+}
+.big {
+    font-size:18px;
+    font-weight:400;
+}
+.red2 {
+    color:red;
+}
+.blue {
+    color:blue;
+}
+.underline {
+  text-decoration: underline;
+}
+.throughline {
+  text-decoration: line-through;
+}
+.shadow{
+  text-shadow: 0 0 3px #FF0000;
+  }
